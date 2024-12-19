@@ -1,6 +1,6 @@
 import React from 'react'
 import Nav3 from './Nav3'
-import HotMenu from './hotMenu'
+import HotMenu from './HotMenu'
 import FooterImages from './FooterImages'
 
 const nav3 = [
