@@ -888,3 +888,83 @@ footer {
   margin: 0;
   padding: 0;
 }
+
+@media screen and (max-width: 480px) {
+  .HomeHeader {
+    height: 80vh;
+  }
+
+  .header-content {
+    width: 90%;
+    gap: 2rem;
+  }
+
+  .HomeHeader h1 {
+    width: 30rem;
+    font-size: 3.2rem;
+  }
+
+  .HomeHeader h3 {
+    font-size: 5rem;
+    line-height: 6rem;
+    height: auto;
+  }
+
+  .nav1 {
+    height: auto;
+    padding: 2rem 0;
+  }
+
+  .nav1 ul {
+    width: 90%;
+    gap: 2rem;
+  }
+
+  .all-cards {
+    width: 90%;
+    height: auto;
+  }
+
+  .ara-text {
+    width: 90%;
+    height: auto;
+    gap: 4rem;
+  }
+
+  .ara-text h2 {
+    width: 100%;
+    font-size: 2.8rem;
+  }
+
+  .ara-text h3 {
+    width: 100%;
+    font-size: 3.6rem;
+  }
+
+  .ara-nav {
+    width: 90%;
+    height: auto;
+  }
+
+  .ara-tanitim {
+    width: 90%;
+    height: auto;
+  }
+
+  .footer-first-frame {
+    width: 90%;
+    height: auto;
+  }
+
+  .footer-instagram {
+    width: 100%;
+  }
+
+  .footer-instagram-images {
+    width: 100%;
+  }
+
+  .footer-bottom {
+    width: 90%;
+  }
+}
